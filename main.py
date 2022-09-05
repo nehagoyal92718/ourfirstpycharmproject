@@ -1,6 +1,6 @@
-def sum(a,b):
-    s = a+b
-    return sum()
+def multiply(x,y):
+    s = x*y
+    return multiply
 
-print(sum(6,5))
+print(multiply(9,8))
 print("statement1 in master")
